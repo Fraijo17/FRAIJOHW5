@@ -1,15 +1,7 @@
 # FRAIJOHW5
 
-GIVEN I am using a daily planner to create a schedule
-WHEN I open the planner
-THEN the current day is displayed at the top of the calendar
-WHEN I scroll down
-THEN I am presented with time blocks for standard business hours
-WHEN I view the time blocks for that day
-THEN each time block is color-coded to indicate whether it is in the past, present, or future
-WHEN I click into a time block
-THEN I can enter an event
-WHEN I click the save button for that time block
-THEN the text for that event is saved in local storage
-WHEN I refresh the page
-THEN the saved events persist
+I am given a daily planner to create a schedule.
+When i open the planner the current day is displayed and time blocks
+are shown with the time of the day. I can enter an event for the time being.
+Each time block is color coded to indicate if it's past, present, or future.
+On the far right is a save button where my input will be saved and still appear if page get's refreshed.  
